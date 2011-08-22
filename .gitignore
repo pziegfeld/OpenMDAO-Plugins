@@ -2,6 +2,7 @@ generated_images/
 repo_lock/
 devenv/
 build/
+sphinx_build/
 dist/
 parts/
 eggs/
