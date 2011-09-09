@@ -20,16 +20,3 @@ neural_net.py
    :show-inheritance:
     
         
-.. index:: NN_Sin.py
-
-.. _neural_net.sphinx_build.html._downloads.NN_Sin.py:
-
-NN_Sin.py
----------
-
-.. automodule:: neural_net.sphinx_build.html._downloads.NN_Sin
-   :members:
-   :undoc-members:
-   :show-inheritance:
-    
-        

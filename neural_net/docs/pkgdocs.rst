@@ -3,6 +3,8 @@
 Package Metadata
 ================
 
+- **author:** Caitlin Cavenaugh
+
 - **classifier**:: 
 
     Intended Audience :: Science/Research
@@ -10,10 +12,7 @@ Package Metadata
 
 - **description-file:** README.txt
 
-- **entry_points**:: 
-
-    [openmdao.component]
-    NN_Sin.Sin=NN_Sin:Sin
+- **home-page:** https://github.com/OpenMDAO-Plugins
 
 - **keywords:** openmdao
 
@@ -27,6 +26,8 @@ Package Metadata
     <2.7
 
 - **static_path:** [ '_static' ]
+
+- **summary:** neural_net package
 
 - **version:** 0.1
 
