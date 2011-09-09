@@ -40,7 +40,7 @@ through the MetaModel.
 
 To create a MetaModel, we first define an assembly to work in. After we have 
 created an assembly, the MetaModel component needs to be instantiated. In this example, 
-the MetaModel was instantiated as "sin_meta_model," making it easy to identify.
+the MetaModel was instantiated as ``sin_meta_model``, making it easy to identify.
 
 .. testcode:: NN_MetaModel_parts
 

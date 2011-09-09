@@ -3,7 +3,7 @@
 Package Metadata
 ================
 
-- **author:** Caitlin Cavenaugh
+- **author:** Caitlin Kavenaugh
 
 - **classifier**:: 
 
