@@ -14,11 +14,6 @@ Package Metadata
 
 - **description-file:** README.txt
 
-- **entry_points**:: 
-
-    [openmdao.component]
-    test_pyopt_driver.MultiFunction=test_pyopt_driver:MultiFunction
-
 - **home-page:** https://github.com/OpenMDAO/pyOpt-Driver
 
 - **keywords:** openmdao
@@ -31,6 +26,8 @@ Package Metadata
 
     >=2.6
     <2.7
+
+- **static_path:** [ '_static' ]
 
 - **summary:** Driver wrapper for pyOpt
 
