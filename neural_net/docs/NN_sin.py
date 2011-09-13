@@ -1,3 +1,4 @@
+
 from openmdao.main.api import Assembly, Component, SequentialWorkflow
 from math import sin
 

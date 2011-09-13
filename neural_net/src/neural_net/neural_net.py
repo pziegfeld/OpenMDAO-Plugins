@@ -26,7 +26,7 @@ class NeuralNet(HasTraits):
         return value
     
     def train(self, X, Y):
-        """ Trains the nerual network based on the given set of inputs
+        """ Trains the neural network based on the given set of inputs
         and outputs. """
 
         inp = array(X)

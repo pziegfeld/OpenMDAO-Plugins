@@ -109,7 +109,7 @@ class pyOptDriver(DriverUsesDerivatives):
         try:
             exec('from pyOpt import %s' % optimizer)
         except ImportError:
-            msg = "Optimizer %s is not avialable in this installation." % \
+            msg = "Optimizer %s is not available in this installation." % \
                    optimizer
             self.raise_exception(msg, ImportError)
             

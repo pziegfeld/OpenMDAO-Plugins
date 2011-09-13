@@ -8,7 +8,7 @@
 
 from setuptools import setup, find_packages
 
-kwargs = {'author': 'Caitlin Cavenaugh',
+kwargs = {'author': 'Caitlin Kavenaugh',
  'author_email': '',
  'classifiers': ['Intended Audience :: Science/Research',
                  'Topic :: Scientific/Engineering'],
